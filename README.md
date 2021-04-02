@@ -13,3 +13,14 @@ El archivo gitignore nos sirve para decirle a Git qué archivos o directorios co
 Para configurar el archivo .gitignore debemos crear un archivo de texto plano y dentro de el debemos colocar el nombre de cada archivo que queremos que Git ignore. Por Ejemplo
 
 Si indicamos la linea **bower_components/**, estamos evitando que git haga un control de versiones de todo el contenido de dicha carpeta
+
+
+
+
+## Respuestas sobre archivo .c
+
+### ¿A que se debe que los puntos II y III sean iguales?
+ambos se refiere a la direccion de memoria de la variable
+
+### ¿Que se obtiene en el punto 4?
+en el apartado **D** obtengo la direccion de memoria que está ocupando el puntero declarado, no es igual a los anteriores porque este me está mostrando la direccion que ocupa el puntero mientras que los otros me muestra la direccion que ocupa la variable
